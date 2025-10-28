@@ -3,7 +3,7 @@
     "details": [
       {
         "appID": "3728FAS88P.com.carlosdef90.WebViewPlayground",
-        "paths": ["/paypal-return"]
+        "paths": ["/paypal-return", "/paypal-cancel"]
       }
     ]
   }
