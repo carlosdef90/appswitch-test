@@ -1,0 +1,10 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appID": "TEAMID.com.cadefreitas.WebViewPlayground",
+        "paths": ["/paypal-return"]
+      }
+    ]
+  }
+}
